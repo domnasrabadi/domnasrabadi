@@ -3,7 +3,7 @@
 I am a final year uni student finishing a double bachelors in Business Analytics & Professional Accounting. I've also been working as a Data Analyst at a Big 4 
 Australian Bank for the last few years. 
 
-👀 I have experience in SQL, R, VBA and Python
+👀 I have experience mainly in SQL and R. However, I've written code in VBA, Python, HTML and React-Native too in the past.
 
 🌱 I’m interested in learning more about NLP and advanced machine learning models
 
